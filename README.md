@@ -1,1 +1,14 @@
-# business-card
+{
+  "name": "Scrim-s027ic2",
+  "description": "https://scrimba.com/fullstack-path-c0fullstack/~02e/s0icsoi7qq/head",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
